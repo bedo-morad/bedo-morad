@@ -5,13 +5,15 @@
 I'm a Spring boot backend developer
 
 ## 🛠 Skills
-![Backend Skills](https://skillicons.dev/icons?i=idea,spring,java,hibernate,postgres,mongodb,docker)
+![Backend Skills](https://skillicons.dev/icons?i=spring,java,maven,hibernate,postgres,mongodb,docker,git,github)
 
-![Frontend Skills](https://skillicons.dev/icons?i=vscode,html,css,javascript,jquery,angular,bootstrap)
+![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,angular,bootstrap)
 
-![Mobile Skills](https://skillicons.dev/icons?i=androidstudio,dart,flutter,firebase)
+![Tools](https://skillicons.dev/icons?i=idea,androidstudio,pycharm,vscode,postman)
 
-![IOT Skills](https://skillicons.dev/icons?i=pycharm,py,raspberrypi)
+![Mobile Skills](https://skillicons.dev/icons?i=dart,flutter,firebase)
+
+![IOT Skills](https://skillicons.dev/icons?i=py,raspberrypi)
 
 ## 🔗 Contact me 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-mosad/)
