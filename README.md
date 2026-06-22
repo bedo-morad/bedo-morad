@@ -9,7 +9,7 @@ I'm a Spring boot backend developer
 
 ![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,angular,bootstrap)
 
-![Tools](https://skillicons.dev/icons?i=idea,androidstudio,pycharm,vscode,postman)
+![Tools](https://skillicons.dev/icons?i=idea,androidstudio,pycharm,vscode,godot)
 
 ![Mobile Skills](https://skillicons.dev/icons?i=dart,flutter,firebase)
 
